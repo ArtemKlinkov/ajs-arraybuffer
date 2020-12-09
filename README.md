@@ -1,1 +1,1 @@
-# ajs-arraybuffer
+[![Build status](https://ci.appveyor.com/api/projects/status/r39xhk6xksapu68r?svg=true)](https://ci.appveyor.com/project/ArtemKlinkov/ajs-arraybuffer)
